@@ -22,7 +22,7 @@ But for multiples of three print "Fizz" instead of the number and for the multip
         # else if the number is divisible by 3 then print "Fizz"
         # else if the number is divisible by 5 then print "Buzz" 
         # else print the number.
-6. To handle the InputMismatch exceptions by using try, catch, finally around the Method.
+6. To handle the InputMismatch exceptions by using try, catch, finally around the Method inside the java class.
 
 # How to Setup and Run java code from ecllipse IDE tool
 1. Install Java and Git on Machine.
