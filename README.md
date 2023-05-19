@@ -4,7 +4,7 @@ But for multiples of three print "Fizz" instead of the number and for the multip
 "Buzz". For numbers which are multiples of both three and five print "FizzBuzz".
 
 # Programming Language
-JAVA
+  JAVA
 
 # Project structure
   Standalone java project
@@ -22,13 +22,13 @@ JAVA
         # else if the number is divisible by 3 then print "Fizz"
         # else if the number is divisible by 5 then print "Buzz" 
         # else print the number.
-6. To handle the InputMismatch exceptions by using try, catch, finally around the Method.
+6. To handle the InputMismatch exceptions by using try, catch, finally around the Method inside the java class.
 
 # How to Setup and Run java code from ecllipse IDE tool
 1. Install Java and Git on Machine.
 2. Go to github Repository-https://github.com/LakshmiRamasubramanian/DelphiBIC_Coding.git and copy the link.
 3. Open Ecllipse IDE, go to File->import->Git->projects from git->clone Url->paste the github URI->click Next->select Master branch->click Next and Finish
-4. Go to imported project under the Src folder select the java class, go to run-> select java applications which executes the code and generate results in the console.
+4. Go to imported project, under that Src folder select the java class, go to run-> select java applications which executes the code and generate results in the console.
 
 # How to Setup and Run Java Code from terminal
 1. Install Java and Git on Machine
