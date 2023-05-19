@@ -32,15 +32,17 @@ public class FizzBuzz {
 		try {
 			for (int counter = startRange; counter <= endRange; counter++) {
 				if ((counter % 15==0)) {
-					System.out.println("FizzBuzz");
+					System.out.print("FizzBuzz");
 				} else if (counter % 5 == 0) {
-					System.out.println("Buzz");
+					System.out.print("Buzz");
 				} else if (counter % 3 == 0) {
-					System.out.println("Fizz");
+					System.out.print("Fizz");
 				} else {
-					System.out.println(counter);
+					System.out.print(counter);
 				}
+				System.out.print((counter==endRange)?" ":",");
 			}
+			System.out.println();
 		} 
 		catch (Exception exception) {
 			System.out.println(" Exception occurerd : " + exception.getMessage());
